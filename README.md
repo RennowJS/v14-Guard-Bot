@@ -3,7 +3,7 @@
 Projenin ücretli satılması veya başkası tarafından, başka bir ad ile dağıtılması kesinlikle yasaktır. Proje lisanslı bir projedir, bu tarz işlemlerde bulunanlar olur ise lisans aracılığı ile gerekli yasal yollara başvurulacaktır.
 
 # Proje İçeriği Hakkında Bilgilendirme
-Gelişmiş Backup, Rol Korumalar, Kanal Korumalar, Kategori Koruması (Silinince İçine Eski Kanalları Oto Atma Olayı Falan Filan), Url Korumalar, Webhook, Sunucu Ayarları, Chat Guard Koruması, Sağ-Tık İşlemler Koruması (Ban/Kick) gibi özellikleri mevcuttur ve hepsinin güvenli kategorileri vardır Bot Hatasız Tamamen V14' tür.
+Gelişmiş yedekleme sistemi, rol, kanal ve kategori korumaları (kategori silindiğinde içindeki kanalların otomatik olarak yeniden oluşturulması dahil), URL koruması, webhook güvenliği, sunucu ayarlarının yedeklenmesi, sohbet güvenliği (Chat Guard) ve sağ tık işlemlerine karşı koruma (Ban/Kick gibi) gibi birçok özelliğe sahiptir. Tüm bu modüller, güvenli kullanım için özel olarak kategorilere ayrılmıştır. Bot, tamamen hatasız çalışacak şekilde geliştirilmiş olup Discord.js v14 altyapısıyla hazırlanmıştır.
 
 Projede yalnızca config dosyasını doldurmanız yeterlidir. Projemiz kapalı kaynaklıdır ve otomatik güncelleme desteği sunmaktadır. İleride eklenecek yeni özellikler ve hata düzeltmeleri otomatik olarak tarafınıza ulaşacaktır.
 
