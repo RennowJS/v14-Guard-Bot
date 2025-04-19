@@ -36,7 +36,7 @@ Tüm modüller kullanıcı dostu şekilde yapılandırılmış ve özel kategori
 ```bash
 # ZIP dosyasını indirdikten sonra:
 1. Arşiv dosyasını çıkarın
-2. config.json dosyasını kendi bilgilerinize göre düzenleyin
+2. config.js dosyasını kendi bilgilerinize göre düzenleyin
 3. ".exe" ile biten dosyayı çalıştırın
 ```
 
