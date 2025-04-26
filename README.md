@@ -55,12 +55,11 @@ Proje, **otomatik güncelleme desteğine sahiptir.** Yeni özellikler, güvenlik
 ## 🖼️ Projeden Görseller
 
 ![image](https://github.com/user-attachments/assets/533bbe14-ca8f-4c50-929e-8fa398acdc7f)
-![image](https://github.com/user-attachments/assets/1e2d9382-bebf-4036-a03d-04469ecff0a0)
+![image](https://github.com/user-attachments/assets/88ea4db4-c9f0-4714-8cfd-0234e37e7cb8)
 ![image](https://github.com/user-attachments/assets/907c3f1a-0d18-43e4-b3ca-46e703e1d791)
 ![image](https://github.com/user-attachments/assets/c5b15349-cb63-45f4-9ceb-b138bb72b25d)
 ![image](https://github.com/user-attachments/assets/e0876c76-2752-425e-8644-dc0f17736488)
 ![image](https://github.com/user-attachments/assets/e45f2f41-4eb8-4761-ade5-5f07db65d7aa)
-
 
 ---
 
