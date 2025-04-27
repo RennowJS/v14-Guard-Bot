@@ -74,11 +74,5 @@ Yeni özellikler önermek, hataları bildirmek ya da projeye katkıda bulunmak i
 ## 👨‍💻 Geliştirici
 
 > **RennowJS**  
-> Discord toplulukları için gelişmiş, güvenlik odaklı açık kaynak projeler geliştiren bağımsız geliştirici.
-
----
-
-## 📄 Lisans
-
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylı bilgi için lütfen `LICENSE` dosyasını inceleyin.
+> Discord: atahan51_0
 
